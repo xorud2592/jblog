@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.container {
+	height: 30%;
+	width: 100%;
+}
+	
+.logo {
+	display: block;
+	width: 150px;
+	margin: auto;
+}
+
+.row {
+	height: 10%;
+	width: 150px;
+	text-align: center;
+	margin: 0px auto;
+}
+
+.search {
+	margin: auto;
+	text-align: center;
+}

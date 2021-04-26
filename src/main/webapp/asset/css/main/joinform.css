@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.join-container {
+	border: 1px solid black;
+	margin: auto;
+	height: 60%;
+	width: 30%;
+}
+
+.form {
+	margin-left: 15px;
+	width: 90%;
+	height: 8%;
+}
+
+.id {
+	margin-left: 15px;
+	height: 8%;
+	width: 60%;
+}
+
+.idButton {
+	margin-left: 15px;
+	height: 8%;
+	width: 2000%;
+}
+
+.checkId {
+	margin-left: 15px;
+	font-size: 15px;
+}
+.text {
+	margin-left: 15px;
+	font-size: 15px;
+}
+
+.success{
+	text-align: center;
+}

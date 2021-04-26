@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.title-container {
+	background-color: cyan;
+	margin: auto;
+	height: 60%;
+	width: 80%;
+}
+
+.title-container > h1 {
+	text-align: center;
+}
+
+.title-container > .nav {
+	text-align: right;
+}
